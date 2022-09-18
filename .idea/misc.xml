@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Bee/AndroidStudioProjects/Weather2/app/src/main/res/drawable/ic_cloudy.xml" value="0.2195" />
         <entry key="..\:/Users/Bee/AndroidStudioProjects/Weather2/app/src/main/res/drawable/ic_drop.xml" value="0.2195" />
+        <entry key="..\:/Users/Bee/AndroidStudioProjects/Weather2/app/src/main/res/drawable/ic_heavysnow.xml" value="0.207" />
+        <entry key="..\:/Users/Bee/AndroidStudioProjects/Weather2/app/src/main/res/drawable/ic_sunnyrainy.xml" value="0.207" />
+        <entry key="..\:/Users/Bee/AndroidStudioProjects/Weather2/app/src/main/res/drawable/ic_very_cloudy.xml" value="0.207" />
         <entry key="..\:/Users/Bee/AndroidStudioProjects/Weather2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2195" />
       </map>
     </option>
